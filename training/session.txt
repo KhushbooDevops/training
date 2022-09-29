@@ -1,1 +1,2 @@
 today session is git
+first session on git
